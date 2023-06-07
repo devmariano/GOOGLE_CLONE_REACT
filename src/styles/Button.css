@@ -8,5 +8,8 @@
     min-width: 54px;
     border: none;
     color: #303134;
-
+    cursor: pointer;
+}
+.Btn:hover{
+    border: 1px solid #30313428;
 }
